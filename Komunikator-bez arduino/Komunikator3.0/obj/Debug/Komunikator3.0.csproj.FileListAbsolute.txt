@@ -1,0 +1,20 @@
+D:\Projekty programowanie\VS projekt\Komunikator3.0\Komunikator3.0\bin\Debug\Komunikator3.0.exe.config
+D:\Projekty programowanie\VS projekt\Komunikator3.0\Komunikator3.0\bin\Debug\Komunikator3.0.exe
+D:\Projekty programowanie\VS projekt\Komunikator3.0\Komunikator3.0\bin\Debug\Komunikator3.0.pdb
+D:\Projekty programowanie\VS projekt\Komunikator3.0\Komunikator3.0\obj\Debug\Komunikator3.0.csprojAssemblyReference.cache
+D:\Projekty programowanie\VS projekt\Komunikator3.0\Komunikator3.0\obj\Debug\Komunikator3._0.Form1.resources
+D:\Projekty programowanie\VS projekt\Komunikator3.0\Komunikator3.0\obj\Debug\Komunikator3._0.Properties.Resources.resources
+D:\Projekty programowanie\VS projekt\Komunikator3.0\Komunikator3.0\obj\Debug\Komunikator3.0.csproj.GenerateResource.cache
+D:\Projekty programowanie\VS projekt\Komunikator3.0\Komunikator3.0\obj\Debug\Komunikator3.0.csproj.CoreCompileInputs.cache
+D:\Projekty programowanie\VS projekt\Komunikator3.0\Komunikator3.0\obj\Debug\Komunikator3.0.exe
+D:\Projekty programowanie\VS projekt\Komunikator3.0\Komunikator3.0\obj\Debug\Komunikator3.0.pdb
+C:\Users\Infa\Documents\Studia\Semestr_4\Systemy_wbudowane\OneDrive-2019-05-08\Komunikator3.0\bin\Debug\Komunikator3.0.exe.config
+C:\Users\Infa\Documents\Studia\Semestr_4\Systemy_wbudowane\OneDrive-2019-05-08\Komunikator3.0\bin\Debug\Komunikator3.0.exe
+C:\Users\Infa\Documents\Studia\Semestr_4\Systemy_wbudowane\OneDrive-2019-05-08\Komunikator3.0\bin\Debug\Komunikator3.0.pdb
+C:\Users\Infa\Documents\Studia\Semestr_4\Systemy_wbudowane\OneDrive-2019-05-08\Komunikator3.0\obj\Debug\Komunikator3.0.csprojAssemblyReference.cache
+C:\Users\Infa\Documents\Studia\Semestr_4\Systemy_wbudowane\OneDrive-2019-05-08\Komunikator3.0\obj\Debug\Komunikator3._0.Form1.resources
+C:\Users\Infa\Documents\Studia\Semestr_4\Systemy_wbudowane\OneDrive-2019-05-08\Komunikator3.0\obj\Debug\Komunikator3._0.Properties.Resources.resources
+C:\Users\Infa\Documents\Studia\Semestr_4\Systemy_wbudowane\OneDrive-2019-05-08\Komunikator3.0\obj\Debug\Komunikator3.0.csproj.GenerateResource.cache
+C:\Users\Infa\Documents\Studia\Semestr_4\Systemy_wbudowane\OneDrive-2019-05-08\Komunikator3.0\obj\Debug\Komunikator3.0.csproj.CoreCompileInputs.cache
+C:\Users\Infa\Documents\Studia\Semestr_4\Systemy_wbudowane\OneDrive-2019-05-08\Komunikator3.0\obj\Debug\Komunikator3.0.exe
+C:\Users\Infa\Documents\Studia\Semestr_4\Systemy_wbudowane\OneDrive-2019-05-08\Komunikator3.0\obj\Debug\Komunikator3.0.pdb
